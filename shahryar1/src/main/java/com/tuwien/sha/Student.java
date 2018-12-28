@@ -69,6 +69,7 @@ public class Student {
 	public void speak() {
 
 		System.out.println("this student speaks");
+		System.out.println("this is a commit from ecllipce on 28.12 ");
 	}
 
 	public void Student(int i, String string) {
